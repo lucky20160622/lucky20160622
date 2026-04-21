@@ -4,20 +4,6 @@
   AI Application Builder • Workflow Developer • Turning LLM capabilities into useful products
 </p>
 
-<p align="center">
-  <a href="mailto:1048656160@qq.com">
-    <img src="https://img.shields.io/badge/Email-1048656160%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/lucky20160622">
-    <img src="https://img.shields.io/badge/GitHub-lucky20160622-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Applications-111111?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-China-0A66C2?style=for-the-badge" alt="Location" />
-</p>
-
-<p align="center">
-  I focus on practical AI applications, LLM-powered workflows, and building products that solve real problems with clarity and speed.
-</p>
 
 ---
 
@@ -62,8 +48,6 @@ print(me.say_hi())
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Automation-2E8B57?style=for-the-badge" alt="Automation" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ## What I'm Interested In
@@ -112,28 +96,6 @@ print(me.say_hi())
     </td>
   </tr>
 </table>
-
-## Current Interests
-
-- AI workflow orchestration
-- LLM-assisted product design
-- Prompt engineering for stable outputs
-- Web systems with embedded intelligence
-- Human-friendly automation
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucky20160622&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky20160622&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
-## Contact
-
-- Email: `1048656160@qq.com`
-- GitHub: [github.com/lucky20160622](https://github.com/lucky20160622)
-
----
 
 <p align="center">
   <i>Building useful AI, one practical step at a time.</i>
